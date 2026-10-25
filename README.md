@@ -44,6 +44,7 @@ This model applies to SaaS applications, games, CLIs, libraries, desktop applica
 
 ```text
 .
+├── LICENSE
 ├── README.md
 └── docs/
     ├── principles.md
@@ -72,3 +73,9 @@ Read by role, then expand only for a concrete need:
 README is a human entry point, not mandatory agent execution context. `principles.md` and `documentation.md` are normative references for humans, methodology maintainers, and agents that need those concepts; they are not automatically loaded for every task. `execution.md` defines the execution behavior carried into Issues and local instructions, and is available when that guidance is needed.
 
 This publication contains documentation only. Validate the methodology through actual use and evolve it from observed failures and interventions before considering specialized tooling.
+
+## License
+
+Copyright © 2026 Uriel Paul.
+
+This documentation is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE) for the full terms.
